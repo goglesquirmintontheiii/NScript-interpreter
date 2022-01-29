@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>    
+    <id>FileHelper</id>
+    <version>1.0.0</version>
+    <title>FileHelper</title>
+    <authors>goglesquirmintontheiii</authors>
+    <owners>goglesquirmintontheiii</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows usage of files and folders as objects in c#</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <tags>Files</tags>
+    <dependencies>
+      <dependency id="" />
+    </dependencies>
+    <summary></summary>
+  </metadata>
+  <files>
+    <file src="" target="" />
+  </files>
+</package>
